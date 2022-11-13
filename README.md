@@ -1,6 +1,9 @@
 # Trailhead Playground
 
-To do Trailhead exercises in
+This is my Trailhead Playground to do Trailhead exercises.
+
+- [x] DEV1 Certificate maintenance
+- [ ] FSC Trailmixes
 
 ## Salesforce DX Project: Next Steps
 
